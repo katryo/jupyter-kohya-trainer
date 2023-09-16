@@ -1,1 +1,1 @@
-from reorder_tags import reorder_tags
+from . import reorder_tags
