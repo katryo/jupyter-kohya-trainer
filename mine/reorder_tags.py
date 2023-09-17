@@ -79,6 +79,7 @@ priorities_pose = {
 
 priorities_cum = {
     'cum': 80,
+    'cumdrip': 80,
     'ejaculation': 80,
     'facial': 80,
     'saliva': 80,
